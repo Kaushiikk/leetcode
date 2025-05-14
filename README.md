@@ -1,2 +1,2 @@
 # leetcode
-Solutions for neetcode
+Solutions for `neetcode` and `leetcode`
